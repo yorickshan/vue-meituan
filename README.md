@@ -1,6 +1,6 @@
 # vue-meituan
 
-> My good Nuxt.js project
+> a meituan copy powered by vue2 & nuxt.js
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
