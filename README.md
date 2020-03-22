@@ -1,19 +1,22 @@
 # vue-meituan
-a meituan copy powered by vue2 &amp; node.js 
 
-- vue2.5
-- vue cli3
-- vuex
-- nuxt.js
-- node.js
-- koa2
-- redis
-- mongodb
-- [x] Typescript
+> My good Nuxt.js project
 
----
+## Build Setup
 
-- 组件复用设计
-- 接口设计
-- 数据对象模型
-- 思维 & 技巧
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
